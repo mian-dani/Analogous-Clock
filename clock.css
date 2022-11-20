@@ -1,0 +1,40 @@
+body {
+
+    background-color: #000;
+    
+}
+
+.clockCanvas{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#canvas {
+margin-left: 300px;
+margin-top: 50px;
+margin-bottom: 50px;
+margin-right: 300px;
+}
+
+.header {
+text-align: center;
+background-color: aliceblue;
+padding: 5px;
+margin: 5px;
+}
+
+.footer {
+    
+    background-color: aliceblue;
+    height: 200px;
+    width: 100%;
+
+    }
+
+    .myName {
+text-align: center;
+padding-top: 80px;
+
+
+    }
